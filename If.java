@@ -11,13 +11,13 @@ public class If
 
         if(one>0)
         {
-            System.out.print("valu is positive");
+            System.out.print("value is positive");
         } else if (one<0)
         {
-            System.out.print("valu is negative ");
+            System.out.print("value is negative ");
         }else
         {
-            System.out.print("valu is natural ");
+            System.out.print("value is natural ");
         }
 
     }
